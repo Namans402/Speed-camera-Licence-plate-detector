@@ -1,5 +1,4 @@
 # Speed-camera-Licence-plate-detector
-# Speed Camera License Plate Identifier
 
 #### Project Goal
 
